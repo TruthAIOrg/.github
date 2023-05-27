@@ -1,4 +1,6 @@
-## Welcome to TruthAIOrg! 👋
+# 👋 Welcome to TruthAIOrg!
+
+English / [简体中文](./README-zh.md)
 
 <!--
 
