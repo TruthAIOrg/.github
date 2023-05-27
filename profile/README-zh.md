@@ -1,17 +1,14 @@
 # 👋 欢迎来到「真实人工智能组织」!
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[English](./profile/README.md) / 简体中文
 
 真实人工智能组织（TruthAIOrg）是一个致力于实现真实、真人的人工智能的组织。
+
+## 🤝 招募
+
+加入真实人工智能组织，共创真实智能！技术专家、学者、研究者，热爱人工智能的你，我们欢迎你加入我们的免费开放组织。培养个人识别欺骗能力，实现真实、真人的人工智能目标。一起探索、合作，创造更真实、智能的未来！
+
+详见[招募令](./profile/recruit-zh.md)
 
 ## 🗣️ 口号
 

@@ -2,18 +2,13 @@
 
 English / [简体中文](./profile/README-zh.md)
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
 The Truth AI Organization (TruthAIOrg) is an organization dedicated to achieving genuine and human-like artificial intelligence.
+
+## 🤝 Recruitment
+
+Join the Truth AI Organization and co-create genuine intelligence! Whether you are a technical expert, scholar, or researcher with a passion for artificial intelligence, we welcome you to join our open and free organization. Together, we will cultivate the ability to recognize deception and strive towards achieving genuine and human-like artificial intelligence. Let's explore, collaborate, and create a more authentic and intelligent future!
+
+For more details, please refer to the [Recruitment Notice](./profile/recruit.md).
 
 ## 🗣️ Slogan
 
