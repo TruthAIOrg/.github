@@ -1,22 +1,22 @@
-# 👋 Welcome to TruthAIOrg!
+# 👋 Welcome to Truth AI Org!
 
 English / [简体中文](./profile/README-zh.md)
 
-The Truth AI Organization (TruthAIOrg) is an organization dedicated to achieving genuine and human-like artificial intelligence.
+The Truth AI Organization (TAO) is an organization dedicated to achieving truth, honest and human-like artificial intelligence.
 
 ## 🤝 Recruitment
 
-Join the Truth AI Organization and co-create genuine intelligence! Whether you are a technical expert, scholar, or researcher with a passion for artificial intelligence, we welcome you to join our open and free organization. Together, we will cultivate the ability to recognize deception and strive towards achieving genuine and human-like artificial intelligence. Let's explore, collaborate, and create a more authentic and intelligent future!
+Join the Truth AI Organization and co-create genuine intelligence! Whether you are a technical expert, scholar, or researcher with a passion for artificial intelligence, we welcome you to join our open and free organization. Together, we will cultivate the ability to recognize deception and strive towards achieving truth, honest and human-like artificial intelligence. Let's explore, collaborate, and create a more authentic and intelligent future!
 
 For more details, please refer to the [Recruitment Notice](./profile/recruit.md).
 
 ## 🗣️ Slogan
 
-"truth", "realme"
+"truth", "honest", "realme".
 
 ## 🎯 Goals
 
-Our organization is committed to achieving genuine and human-like artificial intelligence. We believe that by simulating and replicating human cognitive abilities and behavioral traits, we can create AI systems that are more authentic and closer to human intelligence. We strive for technological advancements to make AI systems smarter, more deeply understanding, and capable of interacting with humans in a more natural manner.
+Our organization is committed to achieving truth, honest and human-like artificial intelligence. We believe that by simulating and replicating human cognitive abilities and behavioral traits, we can create AI systems that are more authentic and closer to human intelligence. We strive for technological advancements to make AI systems smarter, more deeply understanding, and capable of interacting with humans in a more natural manner.
 
 ## 🌟 Vision
 

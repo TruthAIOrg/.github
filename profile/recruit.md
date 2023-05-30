@@ -1,8 +1,8 @@
-# Recruitment Notice
+# 🤝 Recruitment Notice
 
 ## Organization Overview
 
-TruthAIOrg is an organization dedicated to achieving genuine and human-like artificial intelligence.
+TruthAIOrg is an organization dedicated to achieving truth, honest and human-like artificial intelligence.
 
 For more details, visit [TruthAIOrg](https://github.com/TruthAIOrg)
 
